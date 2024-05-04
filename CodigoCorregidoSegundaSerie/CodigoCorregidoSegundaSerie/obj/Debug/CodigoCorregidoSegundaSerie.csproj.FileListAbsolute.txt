@@ -1,0 +1,7 @@
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CodigoCorregidoSegundaSerie\CodigoCorregidoSegundaSerie\bin\Debug\CodigoCorregidoSegundaSerie.exe.config
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CodigoCorregidoSegundaSerie\CodigoCorregidoSegundaSerie\bin\Debug\CodigoCorregidoSegundaSerie.exe
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CodigoCorregidoSegundaSerie\CodigoCorregidoSegundaSerie\bin\Debug\CodigoCorregidoSegundaSerie.pdb
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CodigoCorregidoSegundaSerie\CodigoCorregidoSegundaSerie\obj\Debug\CodigoCorregidoSegundaSerie.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CodigoCorregidoSegundaSerie\CodigoCorregidoSegundaSerie\obj\Debug\CodigoCorregidoSegundaSerie.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CodigoCorregidoSegundaSerie\CodigoCorregidoSegundaSerie\obj\Debug\CodigoCorregidoSegundaSerie.exe
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CodigoCorregidoSegundaSerie\CodigoCorregidoSegundaSerie\obj\Debug\CodigoCorregidoSegundaSerie.pdb

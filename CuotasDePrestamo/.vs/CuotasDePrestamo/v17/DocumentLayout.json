@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TF049\\Desktop\\Parcial2 Programacion1\\CuotasDePrestamo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF20BBF-CE3A-4200-AB1F-0C460B0A5332}|CuotasDePrestamo\\CuotasDePrestamo.csproj|c:\\users\\tf049\\desktop\\parcial2 programacion1\\cuotasdeprestamo\\cuotasdeprestamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AF20BBF-CE3A-4200-AB1F-0C460B0A5332}|CuotasDePrestamo\\CuotasDePrestamo.csproj|solutionrelative:cuotasdeprestamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AF20BBF-CE3A-4200-AB1F-0C460B0A5332}|CuotasDePrestamo\\CuotasDePrestamo.csproj|C:\\Users\\TF049\\Desktop\\Parcial2 Programacion1\\CuotasDePrestamo\\cuotasdeprestamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF20BBF-CE3A-4200-AB1F-0C460B0A5332}|CuotasDePrestamo\\CuotasDePrestamo.csproj|solutionrelative:cuotasdeprestamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\TF049\\Desktop\\Parcial2 Programacion1\\CuotasDePrestamo\\CuotasDePrestamo\\Form1.cs",
+              "RelativeDocumentMoniker": "CuotasDePrestamo\\Form1.cs",
+              "ToolTip": "C:\\Users\\TF049\\Desktop\\Parcial2 Programacion1\\CuotasDePrestamo\\CuotasDePrestamo\\Form1.cs",
+              "RelativeToolTip": "CuotasDePrestamo\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:31:00.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\TF049\\Desktop\\Parcial2 Programacion1\\CuotasDePrestamo\\CuotasDePrestamo\\Form1.cs",
+              "RelativeDocumentMoniker": "CuotasDePrestamo\\Form1.cs",
+              "ToolTip": "C:\\Users\\TF049\\Desktop\\Parcial2 Programacion1\\CuotasDePrestamo\\CuotasDePrestamo\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CuotasDePrestamo\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T18:29:41.211Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+EmpleadoTiempoCompleto
+Diego
+5000

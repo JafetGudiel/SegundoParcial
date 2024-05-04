@@ -1,0 +1,20 @@
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\bin\Debug\CuotasDePrestamo.exe.config
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\bin\Debug\CuotasDePrestamo.exe
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\bin\Debug\CuotasDePrestamo.pdb
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.Form1.resources
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.Properties.Resources.resources
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.csproj.GenerateResource.cache
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.exe
+C:\Users\TF049\Documents\clases cursos C#\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.pdb
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\bin\Debug\CuotasDePrestamo.exe.config
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\bin\Debug\CuotasDePrestamo.exe
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\bin\Debug\CuotasDePrestamo.pdb
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.csproj.AssemblyReference.cache
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.Form1.resources
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.Properties.Resources.resources
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.csproj.GenerateResource.cache
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.exe
+C:\Users\TF049\Desktop\Parcial2 Programacion1\CuotasDePrestamo\CuotasDePrestamo\obj\Debug\CuotasDePrestamo.pdb
